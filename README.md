@@ -1,0 +1,4 @@
+- mono mia fora: `python3.8 -m venv ./venv`
+- `source venv/bin/activate` 
+- `pip3.8 install flask flask_sqlalchemy` - mono mia fora
+- `python3.8 run.py`
